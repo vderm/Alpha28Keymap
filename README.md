@@ -16,7 +16,7 @@ Instead of going up and down layers like in the original Alpha keyboard, I've ma
 + While in the other layers, the bottom row acts like a "regular" bottom modified row: ctrl, alt, winkey
 
 ## Keymap
-![keymap](https://imgur.com/W7O5yhC.jpg)
+![keymap](https://imgur.com/ZbDz0eL.jpg)
 
 ## Build Images
 Here is my keyboard. 
@@ -25,7 +25,6 @@ Here is my keyboard.
 + Keycaps: ebay, can't find link :S
 + Bottom plate: I cut a piece of canary wood that was laying around, needs to be varnished; I also need to actually screw the pcb to the wood instead of relying on double-sided tape
 
-Pictures!
 ![vderm_alpha0](https://imgur.com/MjjoVtr.jpg)
 ![vderm_alpha1](https://imgur.com/mIFu9WV.jpg)
 ![vderm_alpha2](https://imgur.com/A70Iemw.jpg)
